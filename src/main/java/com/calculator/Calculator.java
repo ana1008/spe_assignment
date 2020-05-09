@@ -6,7 +6,7 @@ public class Calculator {
 		System.out.println("6 + 3 = " + add(6, 3));
 		System.out.println("6 - 3 = " + subtract(6,3));
 		System.out.println("6 * 3 = " + multiply(6,3));
-		System.out.println("6 / 3 = " + divide(6,3));
+		System.out.println("6 / 5 = " + divide(6,5));
 	}
 
 	public static int add(int a, int b) {
